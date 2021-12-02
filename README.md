@@ -2,20 +2,24 @@
 Expansión de una enfermedad usando una simulación Montecarlo
 
 Caso A: Población Distribuida uniformemente
-    
-Simulación de 365 días: https://youtu.be/mel1g1ueas4
 
-![image](https://user-images.githubusercontent.com/86375510/144462668-63610b98-aeef-4b4f-a919-91f123be572c.png)
+![image](https://user-images.githubusercontent.com/86375510/144468467-acb0b044-1a5f-410d-97fb-1ac60417357f.png)
+
+
+Simulación de 365 días: https://youtu.be/mel1g1ueas4
 
 
 Caso B: Población Distrbuida por Estados
 
+![image](https://user-images.githubusercontent.com/86375510/144468484-4296ea09-1a4f-4c03-a056-60a778466226.png)
+
 Caso C: Población Distribuida en Ciudades distribuidas uniformemente 
+
+![image](https://user-images.githubusercontent.com/86375510/144468536-585f6d17-ef1d-4326-a19a-acf47c61f894.png)
 
 Simulación de 365 días: https://youtu.be/KI_kMKirYDs
 
-![image](https://user-images.githubusercontent.com/86375510/144462874-b2fad5a0-ee34-4ef6-83de-62cee19da1fc.png)
-
-
-
 Caso D: Población Distribuida en Ciudades distribuidas por Estados
+
+![image](https://user-images.githubusercontent.com/86375510/144468598-f3115ea4-8ce5-408e-8996-ae4579429c20.png)
+
