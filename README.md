@@ -1,6 +1,10 @@
 # Contagio_Montecarlo
 Expansión de una enfermedad usando una simulación Montecarlo
 
+## Modelo SIR
+
+https://adrian-landaverde.shinyapps.io/ContagioEpidemia/
+
 ## Caso A: Población Distribuida uniformemente
 
 ![image](https://user-images.githubusercontent.com/86375510/144468467-acb0b044-1a5f-410d-97fb-1ac60417357f.png)
